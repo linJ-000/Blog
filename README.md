@@ -14,7 +14,7 @@
  - [webpack优化（二）：打包速度优化](https://github.com/linJ-000/Blog/blob/master/Article/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/webpack%E4%BC%98%E5%8C%96%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E6%89%93%E5%8C%85%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96.md)
 
 ## 算法
- - [找出数组中重复的数字]()
- - [查找二维数组中的数字]()
- - [斐波那契数列]()
- - [青蛙跳台阶问题]()
+ - [找出数组中重复的数字](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E6%89%BE%E5%87%BA%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.md)
+ - [查找二维数组中的数字](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E6%9F%A5%E6%89%BE%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%97.md)
+ - [斐波那契数列](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
+ - [青蛙跳台阶问题](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6%E9%97%AE%E9%A2%98.md)
