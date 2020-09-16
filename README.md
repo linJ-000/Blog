@@ -28,3 +28,4 @@
  - [斐波那契数列](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E6%95%B0%E5%88%97.md)
  - [青蛙跳台阶问题](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6%E9%97%AE%E9%A2%98.md)
  - [排序算法](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
+ - [数组转树](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E6%95%B0%E7%BB%84%E8%BD%AC%E6%A0%91.md)
