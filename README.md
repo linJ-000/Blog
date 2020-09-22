@@ -36,6 +36,7 @@
  - [青蛙跳台阶问题](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E9%9D%92%E8%9B%99%E8%B7%B3%E5%8F%B0%E9%98%B6%E9%97%AE%E9%A2%98.md)
  - [排序算法](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
  - [数组转树](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E6%95%B0%E7%BB%84%E8%BD%AC%E6%A0%91.md)
+ - [数组扁平化](https://github.com/linJ-000/Blog/blob/master/Article/%E7%AE%97%E6%B3%95/%E6%95%B0%E7%BB%84%E6%89%81%E5%B9%B3%E5%8C%96.md)
  
 ## 业务场景
  - [批量处理流程控制及全程接口异常处理](https://github.com/linJ-000/Blog/blob/master/Article/%E4%B8%9A%E5%8A%A1%E5%9C%BA%E6%99%AF/%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E5%8F%8A%E5%85%A8%E7%A8%8B%E6%8E%A5%E5%8F%A3%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.md)
