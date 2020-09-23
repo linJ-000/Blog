@@ -18,6 +18,7 @@
  - [前端模块化](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96.md)
  - [深拷贝与浅拷贝](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E6%B7%B1%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
  - [DOM事件流和事件委托](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/DOM%E4%BA%8B%E4%BB%B6%E6%B5%81%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98.md)
+ - [EventBus的实现](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/EventBus%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
  
  
 ## 前端性能优化
