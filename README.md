@@ -3,10 +3,21 @@
 > 前端相关内容博客
 
 ## 基础知识
+
+### JavaScript 原理部分
+
  - [作用域和闭包](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E4%BD%9C%E7%94%A8%E5%9F%9F%E5%92%8C%E9%97%AD%E5%8C%85.md)
  - [原型和原型链](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
- - [类的继承](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF.md)
  - [类型判断](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%B1%BB%E5%9E%8B%E5%88%A4%E6%96%AD.md)
+ - [this关键字](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/this%E5%85%B3%E9%94%AE%E5%AD%97.md)
+ - [前端模块化](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96.md)
+ - [DOM事件流和事件委托](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/DOM%E4%BA%8B%E4%BB%B6%E6%B5%81%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98.md)
+ - [跨域及解决方案](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E8%B7%A8%E5%9F%9F%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+ - [垃圾回收机制](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md)
+
+### 手写 JavaScript 部分
+ 
+ - [类的继承](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E7%B1%BB%E7%9A%84%E7%BB%A7%E6%89%BF.md)
  - [call和apply的模拟实现](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/call%E5%92%8Capply%E7%9A%84%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0.md)
  - [bind的模拟实现](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/bind%E7%9A%84%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0.md)
  - [instanceof的模拟实现](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/instanceof%E7%9A%84%E6%A8%A1%E6%8B%9F%E5%AE%9E%E7%8E%B0.md)
@@ -14,14 +25,9 @@
  - [Object.create的实现](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Object.create%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
  - [ajax的实现](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/ajax%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
  - [jsonp的实现](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/jsonp%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
- - [this关键字](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/this%E5%85%B3%E9%94%AE%E5%AD%97.md)
- - [前端模块化](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%89%8D%E7%AB%AF%E6%A8%A1%E5%9D%97%E5%8C%96.md)
  - [深拷贝与浅拷贝](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E6%B7%B1%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
- - [DOM事件流和事件委托](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/DOM%E4%BA%8B%E4%BB%B6%E6%B5%81%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98.md)
  - [EventBus的实现](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/EventBus%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
  - [实现一个Promise](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AAPromise.md)
- - [跨域及解决方案](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E8%B7%A8%E5%9F%9F%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
- 
  
 ## 前端性能优化
  - [前端性能优化（一）：前言](https://github.com/linJ-000/Blog/blob/master/Article/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/%E5%89%8D%E7%AB%AF%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E5%89%8D%E8%A8%80.md)
