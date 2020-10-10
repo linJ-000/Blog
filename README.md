@@ -14,6 +14,7 @@
  - [DOM事件流和事件委托](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/DOM%E4%BA%8B%E4%BB%B6%E6%B5%81%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98.md)
  - [跨域及解决方案](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E8%B7%A8%E5%9F%9F%E5%8F%8A%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
  - [垃圾回收机制](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6%E6%9C%BA%E5%88%B6.md)
+ - [事件循环EventLoop](https://github.com/linJ-000/Blog/blob/master/Article/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AFEventLoop.md)
 
 ### 手写 JavaScript 部分
  
